@@ -8,5 +8,6 @@
   "encryptAllVaultData" : false,
   "workspaceLock" : null,
   "apiKey" : "bdc98f57-6c97-410d-b8a7-d0a3a7e01cbc",
-  "iconSources" : [ ]
+  "iconSources" : [ ],
+  "hideVaultEntryNames" : false
 }
